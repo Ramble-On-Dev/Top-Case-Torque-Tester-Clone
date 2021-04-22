@@ -1,0 +1,57 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>19.0.1f3</Version>
+<Cluster>
+<Name>Settings in</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>Hardware Configuration</Name>
+<NumElts>2</NumElts>
+<Refnum>
+<Name>Mark10COM</Name>
+<RefKind>VISA</RefKind>
+<Val></Val>
+</Refnum>
+<Boolean>
+<Name>IsConnected</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+<Cluster>
+<Name>TestSettings</Name>
+<NumElts>8</NumElts>
+<U32>
+<Name>Sample</Name>
+<Val>0</Val>
+</U32>
+<String>
+<Name>Applicator Prefix</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Winding Distance</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Winding Speed</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Dwell Time</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<Boolean>
+<Name>Auto Increment Sample</Name>
+<Val>1</Val>
+</Boolean>
+<Path>
+<Name>Output Data Path</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>File Base Path</Name>
+<Val>C:\LabVIEW\Dexcom\Mark-10 Top Case Torque Tester\Reports</Val>
+</Path>
+</Cluster>
+</Cluster>
+</LVData>
