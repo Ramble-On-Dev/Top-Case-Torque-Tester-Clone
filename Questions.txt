@@ -1,0 +1,4 @@
+Top Case Torque Tester Question
+- The test stops based on time instead of distance traveled.
+	- I feel like this should be based on distance traveled with a timemout to abort test if travel is not met.
+	

@@ -14,7 +14,7 @@
 </Refnum>
 <Boolean>
 <Name>IsConnected</Name>
-<Val>0</Val>
+<Val>1</Val>
 </Boolean>
 </Cluster>
 <Cluster>
@@ -50,7 +50,7 @@
 </Path>
 <Path>
 <Name>File Base Path</Name>
-<Val>C:\LabVIEW\Dexcom\Mark-10 Top Case Torque Tester\Reports</Val>
+<Val>C:\LabVIEW\Dexcom\Top Case Torque Tester\Reports</Val>
 </Path>
 </Cluster>
 </Cluster>

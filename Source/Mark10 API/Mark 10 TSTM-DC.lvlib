@@ -28,7 +28,6 @@
 			<Item Name="WriteTravelUnits.vi" Type="VI" URL="../WriteTravelUnits.vi"/>
 			<Item Name="WriteStopMove.vi" Type="VI" URL="../WriteStopMove.vi"/>
 		</Item>
-		<Item Name="Close" Type="Folder"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Cluster - COMSettings.ctl" Type="VI" URL="../Cluster - COMSettings.ctl"/>
