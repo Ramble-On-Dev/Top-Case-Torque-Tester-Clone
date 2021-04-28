@@ -5,13 +5,18 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Error" Type="Folder">
-		<Item Name="ForwardErrorToCaller.vi" Type="VI" URL="../ForwardErrorToCaller.vi"/>
+		<Item Name="Receive" Type="Folder">
+			<Item Name="ForwardErrorToCaller.vi" Type="VI" URL="../ForwardErrorToCaller.vi"/>
+		</Item>
 	</Item>
 	<Item Name="Messaging" Type="Folder">
+		<Item Name="Check Loop Error.vi" Type="VI" URL="../Check Loop Error.vi"/>
 		<Item Name="Create All Message Queues.vi" Type="VI" URL="../Create All Message Queues.vi"/>
 		<Item Name="DequeueMainController.vi" Type="VI" URL="../DequeueMainController.vi"/>
 		<Item Name="EnqueueMainController.vi" Type="VI" URL="../EnqueueMainController.vi"/>
 		<Item Name="EnqueueMulitpleMainController.vi" Type="VI" URL="../EnqueueMulitpleMainController.vi"/>
+		<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../Error Handler - Event Handling Loop.vi"/>
+		<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../Error Handler - Message Handling Loop.vi"/>
 		<Item Name="ObtainQueueMainController.vi" Type="VI" URL="../ObtainQueueMainController.vi"/>
 	</Item>
 	<Item Name="Panel Launch" Type="Folder">

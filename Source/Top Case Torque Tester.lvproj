@@ -15,7 +15,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Dialogs" Type="Folder">
-			<Item Name="MenuDropdown.lvlib" Type="Library" URL="../Dialogs/MenuDropdown/MenuDropdown.lvlib"/>
 			<Item Name="Flyout.lvlib" Type="Library" URL="../Dialogs/Flyout/Flyout.lvlib"/>
 			<Item Name="MessageDialog.vi" Type="VI" URL="../Dialogs/MessageDialog.vi"/>
 		</Item>
@@ -23,11 +22,9 @@
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="User Event - Stop.lvlib" Type="Library" URL="../support/User Event - Stop/User Event - Stop.lvlib"/>
 			<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/Set Enable State on Multiple Controls.vi"/>
-			<Item Name="Check Loop Error.vi" Type="VI" URL="../support/Check Loop Error.vi"/>
-			<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../support/Error Handler - Event Handling Loop.vi"/>
-			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../support/Error Handler - Message Handling Loop.vi"/>
 			<Item Name="UserInterface.lvlib" Type="Library" URL="../support/User Interface/UserInterface.lvlib"/>
 		</Item>
+		<Item Name="Utilities.lvlib" Type="Library" URL="../Utilites/Utilities.lvlib"/>
 		<Item Name="AutoMode.lvlib" Type="Library" URL="../AutoMode/AutoMode.lvlib"/>
 		<Item Name="MainController.lvlib" Type="Library" URL="../MainController/MainController.lvlib"/>
 		<Item Name="ManualMode.lvlib" Type="Library" URL="../ManualMode/ManualMode.lvlib"/>
