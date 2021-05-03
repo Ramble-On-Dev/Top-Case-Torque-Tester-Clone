@@ -9,6 +9,9 @@
 
 </Property>
 	<Item Name="Messaging" Type="Folder">
+		<Item Name="FlushAutoModeQueue.vi" Type="VI" URL="../FlushAutoModeQueue.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
 		<Item Name="EnqueueAutoMode.vi" Type="VI" URL="../EnqueueAutoMode.vi"/>
 		<Item Name="EnqueueMultipleAutoMode.vi" Type="VI" URL="../EnqueueMultipleAutoMode.vi"/>
 		<Item Name="HandleError.vi" Type="VI" URL="../HandleError.vi">
@@ -31,7 +34,7 @@
 		<Item Name="Set Auto Mode Control Value.vi" Type="VI" URL="../Set Auto Mode Control Value.vi"/>
 	</Item>
 	<Item Name="Messages" Type="Folder">
-		<Item Name="Self Messages" Type="Folder">
+		<Item Name="Self" Type="Folder">
 			<Item Name="BroadcastSettings.vi" Type="VI" URL="../BroadcastSettings.vi">
 				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			</Item>

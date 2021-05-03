@@ -19,7 +19,7 @@
 </Cluster>
 <Cluster>
 <Name>TestSettings</Name>
-<NumElts>8</NumElts>
+<NumElts>9</NumElts>
 <U32>
 <Name>Sample</Name>
 <Val>0</Val>
@@ -42,7 +42,7 @@
 </DBL>
 <Boolean>
 <Name>Auto Increment Sample</Name>
-<Val>1</Val>
+<Val>0</Val>
 </Boolean>
 <Path>
 <Name>Output Data Path</Name>
@@ -50,8 +50,12 @@
 </Path>
 <Path>
 <Name>File Base Path</Name>
-<Val>C:\Tools\Other\Top-Case-Torque-Tester\Reports</Val>
+<Val>C:\LabVIEW\Dexcom\Top Case Torque Tester</Val>
 </Path>
+<Boolean>
+<Name>Manual Return To Zero</Name>
+<Val>0</Val>
+</Boolean>
 </Cluster>
 </Cluster>
 </LVData>

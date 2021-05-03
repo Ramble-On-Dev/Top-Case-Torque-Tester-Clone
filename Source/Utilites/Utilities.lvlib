@@ -12,6 +12,9 @@
 		<Item Name="VariantToString.vi" Type="VI" URL="../Numeric/VariantToString.vi"/>
 		<Item Name="VariantToU32.vi" Type="VI" URL="../Numeric/VariantToU32.vi"/>
 	</Item>
+	<Item Name="Timing" Type="Folder">
+		<Item Name="Wait.vi" Type="VI" URL="../Timing/Wait.vi"/>
+	</Item>
 	<Item Name="UI References" Type="Folder">
 		<Item Name="Collect UI Control References.vi" Type="VI" URL="../UI References/Collect UI Control References.vi"/>
 		<Item Name="Get Control Value By Name.vi" Type="VI" URL="../UI References/Get Control Value By Name.vi"/>
