@@ -1,0 +1,9 @@
+- Bug when going from Manual to Auto. COM port gets lost.
+- Go to zero does not work in auto mode
+- Need to stop test on status or angle feedback
+- Add all commands in manual mode
+- Also add a terminal in manual mode
+- Add serial event window to UI
+
+Fixed bug with the COM Port drop down list 
+Added Mark 10 terminal and event log to manual mode
