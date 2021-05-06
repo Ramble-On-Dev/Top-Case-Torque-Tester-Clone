@@ -43,4 +43,5 @@
 	<Item Name="Disconnect.vi" Type="VI" URL="../Disconnect.vi"/>
 	<Item Name="ReadMark10.vi" Type="VI" URL="../ReadMark10.vi"/>
 	<Item Name="WriteMark10.vi" Type="VI" URL="../WriteMark10.vi"/>
+	<Item Name="IsStopped.vi" Type="VI" URL="../IsStopped.vi"/>
 </Library>
