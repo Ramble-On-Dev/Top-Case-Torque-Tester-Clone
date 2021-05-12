@@ -10,7 +10,7 @@
 <Refnum>
 <Name>Mark10COM</Name>
 <RefKind>VISA</RefKind>
-<Val></Val>
+<Val>COM1</Val>
 </Refnum>
 <Boolean>
 <Name>IsConnected</Name>
@@ -42,7 +42,7 @@
 </DBL>
 <Boolean>
 <Name>Auto Increment Sample</Name>
-<Val>0</Val>
+<Val>1</Val>
 </Boolean>
 <Path>
 <Name>Output Data Path</Name>

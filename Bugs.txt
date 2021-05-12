@@ -1,0 +1,10 @@
+- Plot torque vs. angle
+- There is an extra green plot for some reason
+- Store last known user settings
+- Show the horizontal bar on graph
+- Ignored manual return to zero
+- LabVIEW path if cancel we get an error
+	- The auto create report if empty does not work.
+
+- Added error log to file. Add both here and the rotation fixture
+ 

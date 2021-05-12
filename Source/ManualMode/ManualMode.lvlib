@@ -26,5 +26,7 @@
 	</Item>
 	<Item Name="AcquisitionLoop.vi" Type="VI" URL="../AcquisitionLoop.vi"/>
 	<Item Name="ManualMode.vi" Type="VI" URL="../ManualMode.vi"/>
+	<Item Name="MoveCCW.vi" Type="VI" URL="../MoveCCW.vi"/>
+	<Item Name="MoveCW.vi" Type="VI" URL="../MoveCW.vi"/>
 	<Item Name="UpdateUI.vi" Type="VI" URL="../UpdateUI.vi"/>
 </Library>
