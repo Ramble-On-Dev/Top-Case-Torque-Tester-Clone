@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="File" Type="Folder">
+		<Item Name="CurrentPublicDataDirectory.vi" Type="VI" URL="../File/CurrentPublicDataDirectory.vi"/>
+	</Item>
 	<Item Name="Numeric" Type="Folder">
 		<Item Name="GetNumericFloatFromReference.vi" Type="VI" URL="../Numeric/GetNumericFloatFromReference.vi"/>
 		<Item Name="VariantToBoolean.vi" Type="VI" URL="../Numeric/VariantToBoolean.vi"/>

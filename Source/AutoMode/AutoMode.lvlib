@@ -24,6 +24,7 @@
 		<Item Name="Cluster - AutoModeMessage.ctl" Type="VI" URL="../Cluster - AutoModeMessage.ctl"/>
 		<Item Name="Cluster - AutoModeSettings.ctl" Type="VI" URL="../Cluster - AutoModeSettings.ctl"/>
 		<Item Name="Enum - AutoModeState.ctl" Type="VI" URL="../Enum - AutoModeState.ctl"/>
+		<Item Name="Cluster - ControlData.ctl" Type="VI" URL="../Cluster - ControlData.ctl"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -72,6 +73,15 @@
 		<Item Name="Auto Mode Template VI.vi" Type="VI" URL="../Auto Mode Template VI.vi">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
+	</Item>
+	<Item Name="File IO" Type="Folder">
+		<Item Name="LoadFrontPanelSettings.vi" Type="VI" URL="../LoadFrontPanelSettings.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+		<Item Name="StoreFrontPanelSettings.vi" Type="VI" URL="../StoreFrontPanelSettings.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+		<Item Name="ReturnPathToPublicAppDataControlFile.vi" Type="VI" URL="../ReturnPathToPublicAppDataControlFile.vi"/>
 	</Item>
 	<Item Name="AutoMode.vi" Type="VI" URL="../AutoMode.vi"/>
 </Library>

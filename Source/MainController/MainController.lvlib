@@ -10,6 +10,14 @@
 		<Item Name="Write IsHardwareConnected.vi" Type="VI" URL="../Write IsHardwareConnected.vi"/>
 		<Item Name="Write UIState.vi" Type="VI" URL="../Write UIState.vi"/>
 	</Item>
+	<Item Name="File IO" Type="Folder">
+		<Item Name="LoadMainUISettings.vi" Type="VI" URL="../LoadMainUISettings.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+		<Item Name="StoreMainUISettings.vi" Type="VI" URL="../StoreMainUISettings.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+	</Item>
 	<Item Name="Messages" Type="Folder">
 		<Item Name="_template VI" Type="Folder">
 			<Item Name="Main VI Template.vi" Type="VI" URL="../Main VI Template.vi"/>
